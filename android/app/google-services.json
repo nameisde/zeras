@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "213693537176",
+    "firebase_url": "https://zeras-e2cd5.firebaseio.com",
+    "project_id": "zeras-e2cd5",
+    "storage_bucket": "zeras-e2cd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213693537176:android:48df6db555205d8f33e9ed",
+        "android_client_info": {
+          "package_name": "com.example.cantconnection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213693537176-rbbla1eulgl4cml5em8frrfu1be2pbov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs-zFPgbrAZXeK7SJjdu9Vn5rYGDRLE0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213693537176-rbbla1eulgl4cml5em8frrfu1be2pbov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213693537176:android:4deba3c3fa22bd8633e9ed",
+        "android_client_info": {
+          "package_name": "com.example.zeras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213693537176-rbbla1eulgl4cml5em8frrfu1be2pbov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs-zFPgbrAZXeK7SJjdu9Vn5rYGDRLE0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213693537176-rbbla1eulgl4cml5em8frrfu1be2pbov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
